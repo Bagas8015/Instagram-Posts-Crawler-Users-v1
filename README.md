@@ -41,4 +41,3 @@ Merupakan program yang berguna untuk mendapatkan dan mengolah konten post di Ins
   - Muhammad Bagas Pradana - @bagas050201 - bagaspradana0201@gmail.com
   - Resa Fajar Sukma - @zeHapOs9875Ea - rezasukma96@gmail.com
 
-Project Link: https://https://github.com/bagas050201/InstagramCrawler/
